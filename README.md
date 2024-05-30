@@ -1,6 +1,6 @@
 # Online Shopping Data Visualization and Analysis
 
-## Data Set: Online Shoppers Purchasing Intention
+## Data Set: Online Shoppers Purchasing Intention (online_shoppers_intention.csv)
 
 ## Introduction: 
 The Dataset has various features describing a session from a visitor on an online shopping website. There are 12,330 sessions(instances) and 18 attributes describing it. These attributes can be used to suggest how likely it is for a visitor to make a purchase.
